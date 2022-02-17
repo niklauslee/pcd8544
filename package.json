@@ -2,6 +2,7 @@
   "name": "pcd8544",
   "description": "Kaluma library for PCD8544, a.k.a Nokia 5110 (Monochrome LCD Display)",
   "main": "index.js",
+  "version": "1.0.0",
   "dependencies": {
     "simple-fonts": "git+https://github.com/niklauslee/simple-fonts.git"
   }
